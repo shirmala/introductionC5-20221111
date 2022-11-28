@@ -1,0 +1,15 @@
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\bin\Debug\net7.0\009.exe
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\bin\Debug\net7.0\009.deps.json
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\bin\Debug\net7.0\009.runtimeconfig.json
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\bin\Debug\net7.0\009.dll
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\bin\Debug\net7.0\009.pdb
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.csproj.AssemblyReference.cache
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.AssemblyInfoInputs.cache
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.AssemblyInfo.cs
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.dll
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\refint\009.dll
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.pdb
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\009.genruntimeconfig.cache
+C:\Users\dns\Desktop\IntroductionC5_AVT\introductionC5-20221111\009\obj\Debug\net7.0\ref\009.dll
